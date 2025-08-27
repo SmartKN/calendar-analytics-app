@@ -138,4 +138,6 @@ Developed by Kishore P S ✨
 Sample ScreenShots
 <img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/8ec5067f-fe44-499a-a4d7-60f30445a341" />
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/12014e09-8191-406c-ae7b-d412fa790e13" />
+<img width="802" height="556" alt="image" src="https://github.com/user-attachments/assets/0bdbe994-7f83-4a12-bbd7-95ffd58f69b4" />
+
 
