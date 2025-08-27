@@ -1,5 +1,5 @@
 import React from "react";
-import CalendarView from "./CalendarView";
+import CalendarView from "./components/CalendarView";
 
 function App() {
   return (

@@ -2,7 +2,7 @@ import React from "react";
 import { Calendar, momentLocalizer } from "react-big-calendar";
 import moment from "moment";
 import data from "../data";
-import BarGraphModal from "./BarGraphModal";
+import BarGraphModal from "./BarGraphModel";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import "../styles.css";
 import { useDispatch, useSelector } from "react-redux";
