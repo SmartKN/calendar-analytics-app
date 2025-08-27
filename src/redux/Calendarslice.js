@@ -5,7 +5,7 @@ const initialState = {
   modalOpen: false,
 };
 
-const CalendarSlice = createSlice({
+const calendarSlice = createSlice({
   name: "calendar",
   initialState,
   reducers: {
@@ -20,5 +20,5 @@ const CalendarSlice = createSlice({
   },
 });
 
-export const { setSelectedDate, closeModal } = CalendarSlice.actions;
-export default CalendarSlice.reducer;
+export const { setSelectedDate, closeModal } = calendarSlice.actions;
+export default calendarSlice.reducer;

@@ -2,11 +2,11 @@ import React from "react";
 import { Calendar, momentLocalizer } from "react-big-calendar";
 import moment from "moment";
 import data from "../data";
-import BarGraphModal from "./BarGraphModel";
+import BarGraphModal from "./BarGraphModal";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import "../styles.css";
 import { useDispatch, useSelector } from "react-redux";
-import { setSelectedDate } from "../redux/Calendarslice";
+import { setSelectedDate } from "../redux/calendarslice";
 
 const localizer = momentLocalizer(moment);
 

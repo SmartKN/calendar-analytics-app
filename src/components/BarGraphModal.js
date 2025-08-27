@@ -2,7 +2,7 @@ import React from "react";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid } from "recharts";
 import "../styles.css";
 import { useDispatch } from "react-redux";
-import { closeModal } from "../redux/Calendarslice";
+import { closeModal } from "../redux/calendarslice"
 
 const BarGraphModal = ({ date, data }) => {
   const dispatch = useDispatch();

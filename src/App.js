@@ -1,10 +1,11 @@
-import React from "react";
-import CalendarView from "./components/CalendarView";
+import CalendarView from "./components/CalendarView";   
 
 function App() {
   return (
     <div>
-      <h2 style={{ textAlign: "center" }}>React Big Calendar with Bar Graph</h2>
+      <h1 className="text-2xl font-bold text-center my-4">
+        React Big Calendar with Bar Graph
+      </h1>
       <CalendarView />
     </div>
   );
