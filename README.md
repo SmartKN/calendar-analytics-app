@@ -134,3 +134,6 @@ Works with latest Node.js (>=16)
 
 Developed by Kishore P S ✨
 📌 GitHub: SmartKN Kishore
+
+Sample ScreenShots
+<img width="1913" height="967" alt="image" src="https://github.com/user-attachments/assets/8ec5067f-fe44-499a-a4d7-60f30445a341" />
